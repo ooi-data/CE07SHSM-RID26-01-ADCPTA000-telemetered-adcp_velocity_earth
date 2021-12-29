@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE07SHSM-RID26-01-ADCPTA000-telemetered-adcp_velocity_earth
 data_stream: CE07SHSM-RID26-01-ADCPTA000-telemetered-adcp_velocity_earth
 end_date: '2021-12-27T20:30:34.308Z'
-last_updated: '2021-12-29T05:34:14.404412Z'
+last_updated: '2021-12-29T05:45:36.236222'
 start_date: '2015-04-05T17:18:00.720Z'
-status: pending
+status: success
